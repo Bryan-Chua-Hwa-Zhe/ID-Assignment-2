@@ -1,4 +1,5 @@
-ID Assignment 2 - Morse Code Website with Short Quiz
+ID Assignment 2
+- Morse Code Website with Short Quiz
 
 A website that help teaches people morse code and test their ability to read morse code
 
@@ -18,7 +19,7 @@ Technologies Used
     - Used for the Quiz
 
 Testing
-1. Quiz:
+- Quiz:
     i. Go the the "Quiz" page
     ii. Click on one of the four available options
     iii. Click on the "Submit" button
@@ -26,6 +27,7 @@ Testing
     v. Click on the "Next Question" button and a whole new set of questions and choices should appear
 
 Credits
+
 Content
 - 
 Media
