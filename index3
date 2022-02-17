@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+    </head>
+    <body>
+        <div>
+            <div class="question-container" id="qnTitle"> 
+                Question Title
+            </div>
+            <div id = "qnTxt">
+                Question Text
+            </div>
+            <div class="option-container">
+                <button class="option" onclick="" id="choice 1" >
+                    First Choice
+                </button>
+                <button class="option" id="choice 2" >
+                    Second Choice
+                </button>
+                <button class="option" id="choice 3">
+                    Third Choice
+                </button>
+                <button class="option" id="choice 4">
+                    Fourth Choice
+                </button>
+            </div>
+            <button class="submit">
+                Submit
+            </button>
+            <div class="result">
+            </div>
+            <button class="next">
+                Next Question
+            </button>
+        </div>
+        <script src="Quiz mk2.js"></script>
+    </body>
+</html>
