@@ -20,19 +20,19 @@ Technologies Used
 
 Testing
 - Quiz:
-    i. Go the the "Quiz" page
-    ii. Click on one of the four available options
-    iii. Click on the "Submit" button
-    iv. If the choice was correct, a message saying "Correct!!!" should appear, else a message saying "Incorrect..." should appear
-    v. Click on the "Next Question" button and a whole new set of questions and choices should appear
+    - i. Go the the "Quiz" page
+    - ii. Click on one of the four available options
+    - iii. Click on the "Submit" button
+    - iv. If the choice was correct, a message saying "Correct!!!" should appear, else a message saying "Incorrect..." should appear
+    - v. Click on the "Next Question" button and a whole new set of questions and choices should appear
 
 Credits
+- For Photo : https://cdn.website-editor.net/6b6fb9ef748946cc880d945649a71f88/files/uploaded/Morse%252520Code%252520Sheet.jpg
 
 Content
-- 
-Media
-- 
-Acknowledgements
-- 
+- HomePage
+- Quiz
+- Cheatsheet
+
 Website Link
 - https://github.com/Bryan-Chua-Hwa-Zhe/ID-Assignment-2
