@@ -4,8 +4,35 @@
         <title></title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="index3.css">
+
+        
     </head>
+
     <body>
+        <h1>Site Name</h1><!--- Site Name put logo or smth--->
+    
+    <section class="header">
+
+        <div class="top_column">
+            <nav>
+                <div class="nav-links">
+                    <ul>
+                        <li><a href="index.html" id = "index">About</a></li>
+                        <li><a href="#translation">Translation</a></li>
+                        <li><a href="index3.html" id = "quiz">Quiz</a></li>
+                        <li><a href="cheatsheet.html" id = "cheatsheet">Cheatsheet</a></li>
+
+                    </ul>
+                </div>
+                    
+        
+        
+            </nav>
+        </div>
+    </section>
+
+
         <div>
             <div class="question-container" id="qnTitle"> 
                 Question Title
@@ -30,7 +57,7 @@
             <button class="submit">
                 Submit
             </button>
-            <div class="result">
+            <div class="result">    
             </div>
             <button class="next">
                 Next Question
