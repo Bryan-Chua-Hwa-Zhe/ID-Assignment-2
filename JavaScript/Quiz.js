@@ -65,10 +65,10 @@ qnTxt.innerText = Question[i].qnTxt;
 
 
 //Getting Qn Choices
-const choice1 = document.getElementById('choice 1');
-const choice2 = document.getElementById('choice 2');
-const choice3 = document.getElementById('choice 3');
-const choice4 = document.getElementById('choice 4');
+const choice1 = document.getElementById('choice1');
+const choice2 = document.getElementById('choice2');
+const choice3 = document.getElementById('choice3');
+const choice4 = document.getElementById('choice4');
 
 //Setting Qn Choices
 choice1.innerText = Question[i].answers[0].text;
